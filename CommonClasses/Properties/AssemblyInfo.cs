@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CommonClasses")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("AWJ.CommonClasses")]
+[assembly: AssemblyDescription("Common classes including PhoneNumber")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CommonClasses")]
+[assembly: AssemblyCompany("Aaron Jacobson")]
+[assembly: AssemblyProduct("AWJ.CommonClasses")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
